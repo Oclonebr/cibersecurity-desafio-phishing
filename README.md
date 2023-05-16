@@ -17,4 +17,4 @@ Phishing para captura de senhas do Twitter
 8. Obtendo o endereço da máquina: ifconfig
 ### Resutados
 
-![Resutados!](file:///C:/Users/Nitro%205/Desktop/TT%20kali.png "Resultado")
+![Resutados!](https://github.com/Oclonebr/cibersecurity-desafio-phishing/blob/main/TT%20kali.png?raw=true "Resultado")
